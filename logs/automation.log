@@ -1,0 +1,7 @@
+2024-09-06 21:51:23 INFO  TC01_RegisterTest:19 - **********The Test Started*********** 
+2024-09-06 21:51:24 INFO  TC01_RegisterTest:29 - The First Name Entered Successfully
+2024-09-06 21:51:24 INFO  TC01_RegisterTest:31 - The last Name Entered Successfully
+2024-09-06 21:51:26 INFO  TC01_RegisterTest:48 - The Assertion Passed
+2024-09-06 21:51:26 INFO  TC01_RegisterTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-09-06 21:51:30 INFO  TC02_LoginTest:18 - **************The Login test Started 
+2024-09-06 21:51:32 INFO  TC02_LoginTest:34 - **************The Login Test Completed 
